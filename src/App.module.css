@@ -8,6 +8,9 @@
     font-family: 'Merriweather', serif;
 
 }
+body{
+    background-color: red;
+}
 
 div{
     width: 100%;
