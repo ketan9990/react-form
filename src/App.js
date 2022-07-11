@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 
 const App =() => {
+//ABC
 
     const [name,setName] = useState("");
     const[fullName,setfull] = useState("")
